@@ -6,3 +6,4 @@ six>=1.10.0
 mistune
 werkzeug
 packaging
+flask-apispec
